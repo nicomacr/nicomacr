@@ -1,24 +1,17 @@
-## Hello! I'm Nicolas Mac Rouillon 👋
+## Hi, I'm Nicolas 👋
 
+Senior Python developer and Team Lead of the Upgrades team at [Adhoc](https://github.com/ingadhoc) 🇦🇷.
+I spend most of my time on Odoo: moving modules and databases across major versions, and building the tooling that makes those upgrades less painful.
 
-I'm a Software Engineer with 10 years of experience in Python. My passion is solving complex problems, building innovative solutions, learning new technologies.
+Lately I've been bringing **AI into that workflow**, using coding agents to speed up migrations, reviews and the repetitive parts of upgrade work.
 
----
+Most of my open-source work lives in [ingadhoc](https://github.com/ingadhoc).
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-
-### My Skills
-
-Here are some of the technologies and tools I work with:
-
-* **Languages:**  ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-* **Frameworks:** ![Odoo](https://img.shields.io/badge/-odoo-333333?style=flat&logo=odoo) 
-* **Databases:** ![PostgreSQL](https://img.shields.io/badge/-postgreSQL-333333?style=flat&logo=postgresql)
-* **Tools & Platforms:** ![Git](https://img.shields.io/badge/-git-333333?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker) ![Google](https://img.shields.io/badge/-googlecloud-333333?style=flat&logo=googlecloud)
-
-### Let's Connect
-
-If you'd like to learn more about my work or collaborate on a project, feel free to reach out:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-mac-rouillon)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicomacr)
+More about my background on [LinkedIn](https://linkedin.com/in/nicolas-mac-rouillon) · [nicolasmacr@gmail.com](mailto:nicolasmacr@gmail.com)
